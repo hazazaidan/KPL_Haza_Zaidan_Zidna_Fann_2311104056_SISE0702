@@ -1,0 +1,10 @@
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\bin\Debug\jurnalModul3.exe.config
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\bin\Debug\jurnalModul3.exe
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\bin\Debug\jurnalModul3.pdb
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.csproj.AssemblyReference.cache
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.Form1.resources
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.Properties.Resources.resources
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.csproj.GenerateResource.cache
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.csproj.CoreCompileInputs.cache
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.exe
+C:\Users\haza\source\repos\jurnalModul3\jurnalModul3\obj\Debug\jurnalModul3.pdb
