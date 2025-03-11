@@ -1,0 +1,10 @@
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\bin\Debug\tpmodul3_2311104056.exe.config
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\bin\Debug\tpmodul3_2311104056.exe
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\bin\Debug\tpmodul3_2311104056.pdb
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.csproj.AssemblyReference.cache
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.Form1.resources
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.Properties.Resources.resources
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.csproj.GenerateResource.cache
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.csproj.CoreCompileInputs.cache
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.exe
+C:\Users\haza\source\repos\tpmodul3_2311104056\tpmodul3_2311104056\obj\Debug\tpmodul3_2311104056.pdb
