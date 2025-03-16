@@ -1,0 +1,14 @@
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\bin\Debug\net8.0\TPmodul6_2311104056.exe
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\bin\Debug\net8.0\TPmodul6_2311104056.deps.json
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\bin\Debug\net8.0\TPmodul6_2311104056.runtimeconfig.json
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\bin\Debug\net8.0\TPmodul6_2311104056.dll
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\bin\Debug\net8.0\TPmodul6_2311104056.pdb
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.AssemblyInfoInputs.cache
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.AssemblyInfo.cs
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.csproj.CoreCompileInputs.cache
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.dll
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\refint\TPmodul6_2311104056.dll
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.pdb
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\TPmodul6_2311104056.genruntimeconfig.cache
+C:\Users\haza\source\repos\TPmodul6_2311104056\TPmodul6_2311104056\obj\Debug\net8.0\ref\TPmodul6_2311104056.dll
