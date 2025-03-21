@@ -55,7 +55,7 @@ class Program
         {
             for (int i = 0; i < 100; i++)
             {
-                video.IncreasePlayCount(1000000);
+                video.IncreasePlayCount(10000000);
             }
         }
         catch (ArgumentException ex)
