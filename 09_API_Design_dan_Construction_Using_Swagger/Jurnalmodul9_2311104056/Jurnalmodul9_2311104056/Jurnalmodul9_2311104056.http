@@ -1,0 +1,6 @@
+@Jurnalmodul9_2311104056_HostAddress = http://localhost:5217
+
+GET {{Jurnalmodul9_2311104056_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
