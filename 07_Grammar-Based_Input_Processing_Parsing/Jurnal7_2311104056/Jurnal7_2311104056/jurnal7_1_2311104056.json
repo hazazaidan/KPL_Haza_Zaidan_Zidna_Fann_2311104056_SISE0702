@@ -1,0 +1,21 @@
+{
+  "FirstName": "Haza",
+  "LastName": "Fann",
+  "Gender": "Male",
+  "Age": 19,
+  "Address": {
+    "StreetAddress": "Pegandon",
+    "City": "Kendal",
+    "State": "Central Java"
+  },
+  "Courses": [
+    {
+      "Code": "CRI2C4",
+      "Name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "Code": "CRI2C3",
+      "Name": "Pemodelan Perangkat Lunak"
+    }
+  ]
+}
